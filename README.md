@@ -59,70 +59,6 @@ me = SahilKumar()
 print(me.life_mantra())
 ```
 
----
-
-## 🔥 Featured Projects — The Work That Speaks
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 👄 [LipZila — Lip Reading AI](https://github.com/Sahilkumar8084/lipzila)
-
-> *A deep learning system that watches silent videos and predicts what the person is saying — no sound needed.*
-
-Built on the **LipNet architecture** using Conv3D + BiLSTM. Preprocesses raw video frames, isolates mouth regions via OpenCV, and decodes lip movements into text — wrapped in a Streamlit UI.
-
-**Tech:** `TensorFlow` `Keras` `OpenCV` `Streamlit` `FFmpeg` `Docker`
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-lipsii.streamlit.app-FF4B4B?style=flat-square)](https://lipsii.streamlit.app)
-[![Stars](https://img.shields.io/github/stars/Sahilkumar8084/lipzila?style=flat-square&color=f59e0b&label=⭐)](https://github.com/Sahilkumar8084/lipzila/stargazers)
-
-</td>
-<td align="center" width="50%">
-
-### 📊 [WhatsApp Chat Analyzer](https://github.com/Sahilkumar8084/Whatsapp-Chat-Analyzer)
-
-> *Upload a WhatsApp export — get deep NLP insights: sentiment, emoji patterns, activity heatmaps, word clouds.*
-
-Supports **Hinglish** chats via custom `stop_hinglish.txt`. Per-user analysis, most-active hours, message trends. Fully deployed on Streamlit Cloud.
-
-**Tech:** `Python` `Streamlit` `Pandas` `NLTK` `WordCloud` `Matplotlib`
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-streamlit.app-FF4B4B?style=flat-square)](https://whatsapp-chat-analyzer-web.streamlit.app/)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🕵️ [Fraud Detector](https://github.com/Sahilkumar8084/Fraud-Detector)
-
-> *End-to-end ML system to detect fraudulent financial transactions — from Jupyter notebook to deployed web app.*
-
-Full pipeline: feature engineering → MinMaxScaler + OneHotEncoder → trained model → Flask API → deployed on **Render**.
-
-**Tech:** `Scikit-learn` `Joblib` `Flask` `Pandas` `Render` `Jupyter`
-
-[![Repo](https://img.shields.io/badge/📁_View_Repo-GitHub-181717?style=flat-square)](https://github.com/Sahilkumar8084/Fraud-Detector)
-
-</td>
-<td align="center" width="50%">
-
-### 🎓 [Student Performance Predictor](https://github.com/Sahilkumar8084/Predicting-Student-Performance-Using-Machine-Learning)
-
-> *ML-based academic outcome prediction from demographic & test score data. Full EDA + model comparison pipeline.*
-
-Analyzes gender, parental education, test prep impact. Multiple regression + classification models benchmarked for best accuracy.
-
-**Tech:** `Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn` `Jupyter`
-
-[![Repo](https://img.shields.io/badge/📁_View_Repo-GitHub-181717?style=flat-square)](https://github.com/Sahilkumar8084/Predicting-Student-Performance-Using-Machine-Learning)
-
-</td>
-</tr>
-</table>
-
 > 📌 **29 repositories total** — ETL pipelines, NLP tools, fraud systems & more. [Browse all →](https://github.com/Sahilkumar8084?tab=repositories)
 
 ---
@@ -221,7 +157,7 @@ Analyzes gender, parental education, test prep impact. Multiple regression + cla
 
 ---
 
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 
 | Goal | Status |
 |------|--------|
